@@ -1,6 +1,6 @@
 ![OFF](OFF.png)
 
-### <u>Contexte:</u>
+<u>### Contexte:</u>
 Dans le cadre de votre travail de Développeur IA pour une ONG dont la mission est d'améliorer la santé mondiale, vous êtes confronté à la problématique de la mauvaise alimentation et de ses conséquences sur la santé publique. L'accès à une information claire et concise sur la composition nutritionnelle des aliments est crucial pour permettre aux individus de faire des choix éclairés. Ce projet vise à exploiter le jeu de données Open Food Facts pour développer un outil d'analyse et de visualisation des données nutritionnelles, inspiré de l'application Yuka.
 
 ### Objectifs:
