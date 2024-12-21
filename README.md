@@ -1,6 +1,6 @@
 ![OFF](OFF.png)
 
-### Contexte:
+### <u>Contexte:</u>
 Dans le cadre de votre travail de Développeur IA pour une ONG dont la mission est d'améliorer la santé mondiale, vous êtes confronté à la problématique de la mauvaise alimentation et de ses conséquences sur la santé publique. L'accès à une information claire et concise sur la composition nutritionnelle des aliments est crucial pour permettre aux individus de faire des choix éclairés. Ce projet vise à exploiter le jeu de données Open Food Facts pour développer un outil d'analyse et de visualisation des données nutritionnelles, inspiré de l'application Yuka.
 
 ### Objectifs:
@@ -48,8 +48,8 @@ En vous basant sur les colonnes du dataset Open Food Facts, répondez à ces que
 
 15/Comment la composition nutritionnelle des aliments varie-t-elle d'un pays à l'autre ?
 
-### Contribution et origine des données: 
-### [Bloc traité dans le .pdf]
+### Contribution et origine des données: [Bloc traité dans le .pdf]
+
 16/Quels sont les pays les plus contributeurs à Open Food Facts ?
 
 17/Existe-t-il des biais géographiques dans les données ?
