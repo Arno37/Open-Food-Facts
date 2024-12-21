@@ -49,7 +49,7 @@ En vous basant sur les colonnes du dataset Open Food Facts, répondez à ces que
 15/Comment la composition nutritionnelle des aliments varie-t-elle d'un pays à l'autre ?
 
 ### Contribution et origine des données: 
-### [BLOC TRAITÉ DANS MON .PDF]
+### [Bloc traité dans le .pdf]
 16/Quels sont les pays les plus contributeurs à Open Food Facts ?
 
 17/Existe-t-il des biais géographiques dans les données ?
