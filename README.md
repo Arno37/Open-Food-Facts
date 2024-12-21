@@ -61,10 +61,15 @@ En vous basant sur les colonnes du dataset Open Food Facts, répondez à ces que
 
 ### Applications possibles:
 Carte des pays contributeurs avec Folium: Visualiser la répartition géographique des contributions à Open Food Facts.
+
 Programme de substitution d'aliments: Développer un programme qui suggère des alternatives plus saines à un aliment donné.
+
 Intégration avec une IA: Utiliser l'API de ChatGPT ou Gemini pour obtenir des informations complémentaires sur les aliments (origine, impact environnemental, recettes...).
+
 Web scraping: Collecter davantage de données sur Open Food Facts ou d'autres sources pour enrichir l'analyse.
+
 Application web interactive: Créer une interface web permettant aux utilisateurs de rechercher des aliments et de visualiser leurs informations nutritionnelles.
+
 Analyse comparative des marques: Comparer la qualité nutritionnelle des produits de différentes marques.
 
 ### Livrables:
