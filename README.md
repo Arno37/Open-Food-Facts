@@ -9,7 +9,7 @@ Développer un programme d'analyse: Créer un programme en Python qui répond à
 Visualiser les données: Présenter les résultats de l'analyse et du programme de manière claire et accessible, en utilisant des visualisations pertinentes et informatives.
 
 ### Les données
-Lien de téléchargement
+Lien de téléchargement dans le dépôt Github en .zip
 [Source Openfoodfacts](https://fr.openfoodfacts.org/)
 
 ### Questions clés:
