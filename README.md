@@ -39,16 +39,24 @@ En vous basant sur les colonnes du dataset Open Food Facts, répondez à ces que
 
 ### Nutri-Score et informations nutritionnelles:
 11/Comment se calcule le Nutri-Score (FR et UK) ? Qu'est-ce qui les différencie ?
+
 12/Y a-t-il des différences significatives entre le Nutri-Score FR et UK pour les mêmes aliments ?
+
 13/Quels sont les nutriments les plus présents/les plus absents dans chaque catégorie d'aliments ?
+
 14/Existe-t-il une corrélation entre le prix d'un produit et sa qualité nutritionnelle (Nutri-Score) ?
+
 15/Comment la composition nutritionnelle des aliments varie-t-elle d'un pays à l'autre ?
 
 ### Contribution et origine des données:
 16/Quels sont les pays les plus contributeurs à Open Food Facts ?
+
 17/Existe-t-il des biais géographiques dans les données ?
+
 18/Quels sont les labels de qualité les plus fréquents ? Sont-ils associés à des produits plus sains ?
+
 19/Comment la qualité des données varie-t-elle en fonction des contributeurs ?
+
 20/Peut-on identifier des tendances dans l'évolution des données au fil du temps ?
 
 ### Applications possibles:
