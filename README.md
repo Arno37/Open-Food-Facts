@@ -17,30 +17,30 @@ Lien de téléchargement dans le dépôt Github en .zip
 En vous basant sur les colonnes du dataset Open Food Facts, répondez à ces questions et formulez des hypothèses pour orienter votre analyse :
 
 ### Composition et caractéristiques des aliments:
-Qu'est-ce qui caractérise un aliment sain ? (Nutri-Score, ingrédients, additifs, etc.)
-Combien y a-t-il d'aliments dans chaque catégorie ? (produits laitiers, fruits et légumes, viandes, etc.)
-Quels sont les aliments les plus sains de chaque catégorie ?
-Y a-t-il des valeurs redondantes dans le jeu de données ? (informations dupliquées ou corrélées)
-Quels aliments contiennent le plus/le moins d'allergènes, d'additifs ?
-Existe-t-il une corrélation entre la quantité de sucre et le Nutri-Score ?
-Quelle est la proportion d'aliments contenant de l'huile de palme ?
-Quels sont les ingrédients les plus fréquents dans les aliments transformés ?
-Comment la teneur en sel varie-t-elle en fonction des catégories d'aliments ?
-Existe-t-il une corrélation entre la présence d'additifs et la valeur nutritionnelle des aliments ?
+1/Qu'est-ce qui caractérise un aliment sain ? (Nutri-Score, ingrédients, additifs, etc.)
+2/Combien y a-t-il d'aliments dans chaque catégorie ? (produits laitiers, fruits et légumes, viandes, etc.)
+3/Quels sont les aliments les plus sains de chaque catégorie ?
+4/Y a-t-il des valeurs redondantes dans le jeu de données ? (informations dupliquées ou corrélées)
+5/Quels aliments contiennent le plus/le moins d'allergènes, d'additifs ?
+6/Existe-t-il une corrélation entre la quantité de sucre et le Nutri-Score ?
+7/Quelle est la proportion d'aliments contenant de l'huile de palme ?
+8/Quels sont les ingrédients les plus fréquents dans les aliments transformés ?
+9/Comment la teneur en sel varie-t-elle en fonction des catégories d'aliments ?
+10/Existe-t-il une corrélation entre la présence d'additifs et la valeur nutritionnelle des aliments ?
 
 ### Nutri-Score et informations nutritionnelles:
-Comment se calcule le Nutri-Score (FR et UK) ? Qu'est-ce qui les différencie ?
-Y a-t-il des différences significatives entre le Nutri-Score FR et UK pour les mêmes aliments ?
-Quels sont les nutriments les plus présents/les plus absents dans chaque catégorie d'aliments ?
-Existe-t-il une corrélation entre le prix d'un produit et sa qualité nutritionnelle (Nutri-Score) ?
-Comment la composition nutritionnelle des aliments varie-t-elle d'un pays à l'autre ?
+11/Comment se calcule le Nutri-Score (FR et UK) ? Qu'est-ce qui les différencie ?
+12/Y a-t-il des différences significatives entre le Nutri-Score FR et UK pour les mêmes aliments ?
+13/Quels sont les nutriments les plus présents/les plus absents dans chaque catégorie d'aliments ?
+14/Existe-t-il une corrélation entre le prix d'un produit et sa qualité nutritionnelle (Nutri-Score) ?
+15/Comment la composition nutritionnelle des aliments varie-t-elle d'un pays à l'autre ?
 
 ### Contribution et origine des données:
-Quels sont les pays les plus contributeurs à Open Food Facts ?
-Existe-t-il des biais géographiques dans les données ?
-Quels sont les labels de qualité les plus fréquents ? Sont-ils associés à des produits plus sains ?
-Comment la qualité des données varie-t-elle en fonction des contributeurs ?
-Peut-on identifier des tendances dans l'évolution des données au fil du temps ?
+16/Quels sont les pays les plus contributeurs à Open Food Facts ?
+17/Existe-t-il des biais géographiques dans les données ?
+18/Quels sont les labels de qualité les plus fréquents ? Sont-ils associés à des produits plus sains ?
+19/Comment la qualité des données varie-t-elle en fonction des contributeurs ?
+20/Peut-on identifier des tendances dans l'évolution des données au fil du temps ?
 
 ### Applications possibles:
 Carte des pays contributeurs avec Folium: Visualiser la répartition géographique des contributions à Open Food Facts.
