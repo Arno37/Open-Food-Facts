@@ -20,14 +20,21 @@ En vous basant sur les colonnes du dataset Open Food Facts, répondez à ces que
 1/Qu'est-ce qui caractérise un aliment sain ? (Nutri-Score, ingrédients, additifs, etc.)
 
 2/Combien y a-t-il d'aliments dans chaque catégorie ? (produits laitiers, fruits et légumes, viandes, etc.)
+
 3/Quels sont les aliments les plus sains de chaque catégorie ?
 
 4/Y a-t-il des valeurs redondantes dans le jeu de données ? (informations dupliquées ou corrélées)
+
 5/Quels aliments contiennent le plus/le moins d'allergènes, d'additifs ?
+
 6/Existe-t-il une corrélation entre la quantité de sucre et le Nutri-Score ?
+
 7/Quelle est la proportion d'aliments contenant de l'huile de palme ?
+
 8/Quels sont les ingrédients les plus fréquents dans les aliments transformés ?
+
 9/Comment la teneur en sel varie-t-elle en fonction des catégories d'aliments ?
+
 10/Existe-t-il une corrélation entre la présence d'additifs et la valeur nutritionnelle des aliments ?
 
 ### Nutri-Score et informations nutritionnelles:
