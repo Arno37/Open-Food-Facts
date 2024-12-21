@@ -74,12 +74,17 @@ Analyse comparative des marques: Comparer la qualité nutritionnelle des produit
 
 ### Livrables:
 Rapport d'analyse descriptive et exploratoire
+
 Code source du programme
+
 Visualisations des données
+
 Présentation des résultats
 
 ### Technologies:
 Python (Pandas, NumPy, matplotlib/seaborn, Folium)
+
 API ChatGPT ou Gemini (optionnel)
+
 Bibliothèques de web scraping (Beautiful Soup, Scrapy) (optionnel)
 
